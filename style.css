@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+.banners{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.sst{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.fp{
+    text-align: center;
+}
+.footer1 ul li{
+    display: inline-flex;
+    justify-content: space-between;
+    
+}
+.footer1 ul li a{
+    text-decoration: none;
+    color: black;
+    
+
+}
+.footer1{
+    text-align: center;
+    
+    
+}
+footer{
+    background-color: azure;
+}
+.card-img-top:hover{
+    max-zoom: 10;
+}
